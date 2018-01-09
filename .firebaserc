@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "srr-preact-firebase",
+    "ssr-preact": "srr-preact-firebase"
+  }
+}
